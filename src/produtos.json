@@ -1,0 +1,124 @@
+{
+  "produtos": [
+    {
+      "imagem": "https://m.media-amazon.com/images/I/718jJRdvDsL._AC_SX679_.jpg",
+      "nome": "Novo Kindle (16 GB - modelo 2024)",
+      "descricao": "Leve e compacto, tela antirreflexo, bateria de longa duração, Cor Preta",
+      "loja": "Amazon",
+      "preco": "R$539,10",
+      "categ": "livros"
+    },
+    {
+      "imagem": "https://m.media-amazon.com/images/I/61T2cXCWIjL._AC_SX425_.jpg",
+      "nome": "Echo Dot 5° geração",
+      "descricao": "peso: 304g, Tamanho, 100mm 100mm 89mm, 1 alto-falante, ",
+      "loja": "Amazon",
+      "preco": "R$331,55",
+      "categ": "variados"
+    },
+    {
+      "imagem": "https://m.media-amazon.com/images/I/71ftdw-RjHL._SY342_.jpg",
+      "nome": "Guerras Secretas Marvel",
+      "descricao": "Capa dura, publicado em 1984, idioma português, 350 páginas",
+      "loja": "Amazon",
+      "preco": "R$33,56",
+      "categ": "livros" 
+    },
+    {
+      "imagem": "https://m.media-amazon.com/images/I/91w74bA251L._SY342_.jpg",
+      "nome": "Cartas de um diabo a seu aprendiz",
+      "descricao": "Capa dura, publicado em 1942, idioma português, 208 páginas",
+      "loja": "Amazon",
+      "preco": "R$28,96",
+      "categ": "livros"
+    },
+    {
+      "imagem": "https://m.media-amazon.com/images/I/71unpdtgf2L._SY342_.jpg",
+      "nome": "Box Trilogia - O Senhor dos Anéis",
+      "descricao": "Capa dura, publicado em 1954, idioma português, 1568 páginas",
+      "loja": "Amazon",
+      "preco": "R$139,41",
+      "categ": "livros"
+    },
+    {
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_767125-MLU78253595558_082024-F.webp",
+      "nome": "Guitarra Tagima Signature Ja-3",
+      "descricao": "Escala: Rosewood, Madeira corpo: Amieiro, Madeira braço: Bordo, Quantidade de cordas: 6",
+      "loja": "Mercado Livre",
+      "preco": "R$3.199,0",
+      "categ": "musica"
+    },
+    {
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_930115-MLU70619837317_072023-F.webp",
+      "nome": "Cavaco Rozini Show Rc17 Elétrico",
+      "descricao": "Escala: Jacarandá, Madeira corpo: Abeto(maciço), Madeira braço: Cedro, Quantidade de cordas: 4",
+      "loja": "Mercado Livre",
+      "preco": "R$2.099,0",
+      "categ": "musica"
+    },
+    {
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_872188-MLB74081716645_012024-F.webp",
+      "nome": "Kit utensílios de cozinha",
+      "descricao": "Material do cabo: Madeira, Material da ponta: Silicone, Quantidade de peças: 12, Cores disponíveis: 4",
+      "loja": "Mercado Livre",
+      "preco": "R$35,58",
+      "categ": "variados" 
+    },
+    {
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_998872-MLA74805959599_022024-F.webp",
+      "nome": "Sanduicheira elétrica Britânia",
+      "descricao": "Marca: Britânia, Linha: Press, Modelo: Press-BGR27I, Cor: Preto",
+      "loja": "Mercado Livre",
+      "preco": "R$144,64",
+      "categ": "variados"
+    },
+    {
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_919045-MLB77054000332_062024-F.webp",
+      "nome": "Cabo de Rede Area Externa",
+      "descricao": "Material de Revestimento: PVC, Tipo: Par Trançado, Comprimento: 100m, Cor: Preto",
+      "loja": "Mercado Livre",
+      "preco": "R$388,71",
+      "categ": "variados"
+    },
+    {
+      "imagem": "https://down-br.img.susercontent.com/file/21ded991cdd53b6e84b1ff2a68a093bf.webp",
+      "nome": "Baralho Dólar Dourado",
+      "descricao": "Quantidade de cartas: 54, Tamanho: 8,7cm 5,7cm, Cor: Dourado, Material: Lâminas PET",
+      "loja": "Shopee",
+      "preco": "R$19,80",
+      "categ": "variados"  
+    },
+    {
+      "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lvaucfl5bx3led.webp",
+      "nome": "Mini Lâmpada de LED",
+      "descricao": "Tamanho: 15,3cm, Duração da bateria: 2 horas, Luz: ajustável, Cores disponíveis: 7, Acompanha Suporte",
+      "loja": "Shopee",
+      "preco": "R$13,50",
+      "categ": "variados"
+    },
+    {
+      "imagem": "https://down-br.img.susercontent.com/file/4d6baefebf2b8f21c7c293b1ef2c616d@resize_w450_nl.webp",
+      "nome": "Lixeira de Metal Aramado",
+      "descricao": "Capacidade: 10L, Cores disponíveis: 2, Diâmetro: 23cm, Material: Metal Reforçado",
+      "loja": "Shopee",
+      "preco": "R$24,89",
+      "categ": "variados"    
+    },
+    {
+      "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lnd0rt3punjd9f.webp",
+      "nome": "Umidificador de ar",
+      "descricao": "Cor: Preto, Capacidade: 200ml, Potência nominal: 4,5W, Dimensões: 10x7x16cm",
+      "loja": "Shopee",
+      "preco": "R$38,99",
+      "categ": "variados"
+    },
+    {
+      "imagem": "https://down-br.img.susercontent.com/file/99897eba63abb26253aeaf969d179dc5@resize_w450_nl.webp",
+      "nome": "Palhetas para guitarra",
+      "descricao": "Material: ABS, Quantidade: 50, Espessura: Misto, Tipo: Superfície Lisa",
+      "loja": "Shopee",
+      "preco": "R$25,21",
+      "categ": "musica"
+    }
+  ]
+}

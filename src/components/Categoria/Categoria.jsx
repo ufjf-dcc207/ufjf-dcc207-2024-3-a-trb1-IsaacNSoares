@@ -1,10 +1,10 @@
 import "./Categoria.css";
 import Produto from "../Produto/Produto.jsx";
 
-function Categoria() {
+function Categoria({categ}) {
   return (
     <div className="categoria">
-      <h2>Categoria 1</h2>
+      <h2>{categ}</h2>
       <Produto/>
       <Produto/>
       <Produto/>

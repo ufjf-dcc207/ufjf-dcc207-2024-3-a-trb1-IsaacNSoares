@@ -6,9 +6,9 @@ function ListaCompras() {
   return (
     <div className="container">
       <Cabecalho />
-      <Categoria />
-      <Categoria />
-      <Categoria />
+      <Categoria categ={"Livros"}/>
+      <Categoria categ={"Música"}/>
+      <Categoria categ={"Variados"}/>
     </div>
   );
 }

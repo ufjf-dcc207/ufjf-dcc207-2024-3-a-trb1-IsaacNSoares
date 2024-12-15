@@ -1,13 +1,13 @@
 import "./Produto.css";
 
-function Produto() {
+function Produto({informacoes}) {
   return (
     <div className="produto">
-      <img src="" alt="imagem" />
-      <h3 className="nome">Nome</h3>
-      <p className="descricao">Descrição</p>
-      <p className="loja">Loja</p>
-      <p className="preco">Preço</p>
+      <img src={informacoes.imagem} alt={informacoes.nome} />
+      <h3 className="nome">{informacoes.nome}</h3>
+      <p className="descricao">{informacoes.descricao}</p>
+      <p className="loja">{informacoes.loja}</p>
+      <p className="preco">{informacoes.preco}</p>
     </div>
   );
 }

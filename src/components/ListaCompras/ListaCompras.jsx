@@ -1,6 +1,6 @@
 import "./ListaCompras.css";
-import Categoria from "../src/components/Categoria/Categoria.jsx";
-import Cabecalho from "../src/components/Cabecalho/Cabecalho.jsx";
+import Categoria from "../Categoria/Categoria.jsx";
+import Cabecalho from "../Cabecalho/Cabecalho.jsx";
 
 function ListaCompras() {
   return (

@@ -5,7 +5,7 @@
       "nome": "Novo Kindle (16 GB - modelo 2024)",
       "descricao": "Leve e compacto, tela antirreflexo, bateria de longa duração, Cor Preta",
       "loja": "Amazon",
-      "preco": "R$539,10",
+      "preco": 539.19,
       "categoria": "Livros"
     },
     {
@@ -13,7 +13,7 @@
       "nome": "Echo Dot 5° geração",
       "descricao": "peso: 304g, Tamanho, 100mm 100mm 89mm, 1 alto-falante, ",
       "loja": "Amazon",
-      "preco": "R$331,55",
+      "preco": 331.55,
       "categoria": "Variados"
     },
     {
@@ -21,7 +21,7 @@
       "nome": "Guerras Secretas Marvel",
       "descricao": "Capa dura, publicado em 1984, idioma português, 350 páginas",
       "loja": "Amazon",
-      "preco": "R$33,56",
+      "preco": 33.56,
       "categoria": "Livros" 
     },
     {
@@ -29,7 +29,7 @@
       "nome": "Cartas de um diabo a seu aprendiz",
       "descricao": "Capa dura, publicado em 1942, idioma português, 208 páginas",
       "loja": "Amazon",
-      "preco": "R$28,96",
+      "preco": 28.96,
       "categoria": "Livros"
     },
     {
@@ -37,7 +37,7 @@
       "nome": "Box Trilogia - O Senhor dos Anéis",
       "descricao": "Capa dura, publicado em 1954, idioma português, 1568 páginas",
       "loja": "Amazon",
-      "preco": "R$139,41",
+      "preco": 139.41,
       "categoria": "Livros"
     },
     {
@@ -45,7 +45,7 @@
       "nome": "Guitarra Tagima Signature Ja-3",
       "descricao": "Escala: Rosewood, Madeira corpo: Amieiro, Madeira braço: Bordo, Quantidade de cordas: 6",
       "loja": "Mercado Livre",
-      "preco": "R$3.199,0",
+      "preco": 3199.99,
       "categoria": "Música"
     },
     {
@@ -53,7 +53,7 @@
       "nome": "Cavaco Rozini Show Rc17 Elétrico",
       "descricao": "Escala: Jacarandá, Madeira corpo: Abeto(maciço), Madeira braço: Cedro, Quantidade de cordas: 4",
       "loja": "Mercado Livre",
-      "preco": "R$2.099,0",
+      "preco": 2099.99,
       "categoria": "Música"
     },
     {
@@ -61,7 +61,7 @@
       "nome": "Kit utensílios de cozinha",
       "descricao": "Material do cabo: Madeira, Material da ponta: Silicone, Quantidade de peças: 12, Cores disponíveis: 4",
       "loja": "Mercado Livre",
-      "preco": "R$35,58",
+      "preco": 35.58,
       "categoria": "Variados" 
     },
     {
@@ -69,7 +69,7 @@
       "nome": "Sanduicheira elétrica Britânia",
       "descricao": "Marca: Britânia, Linha: Press, Modelo: Press-BGR27I, Cor: Preto",
       "loja": "Mercado Livre",
-      "preco": "R$144,64",
+      "preco": 144.64,
       "categoria": "Variados"
     },
     {
@@ -77,7 +77,7 @@
       "nome": "Cabo de Rede Area Externa",
       "descricao": "Material de Revestimento: PVC, Tipo: Par Trançado, Comprimento: 100m, Cor: Preto",
       "loja": "Mercado Livre",
-      "preco": "R$388,71",
+      "preco": 388.71,
       "categoria": "Variados"
     },
     {
@@ -85,7 +85,7 @@
       "nome": "Baralho Dólar Dourado",
       "descricao": "Quantidade de cartas: 54, Tamanho: 8,7cm 5,7cm, Cor: Dourado, Material: Lâminas PET",
       "loja": "Shopee",
-      "preco": "R$19,80",
+      "preco": 19.81,
       "categoria": "Variados"  
     },
     {
@@ -93,7 +93,7 @@
       "nome": "Mini Lâmpada de LED",
       "descricao": "Tamanho: 15,3cm, Duração da bateria: 2 horas, Luz: ajustável, Cores disponíveis: 7, Acompanha Suporte",
       "loja": "Shopee",
-      "preco": "R$13,50",
+      "preco": 13.54,
       "categoria": "Variados"
     },
     {
@@ -101,7 +101,7 @@
       "nome": "Lixeira de Metal Aramado",
       "descricao": "Capacidade: 10L, Cores disponíveis: 2, Diâmetro: 23cm, Material: Metal Reforçado",
       "loja": "Shopee",
-      "preco": "R$24,89",
+      "preco": 24.89,
       "categoria": "Variados"    
     },
     {
@@ -109,7 +109,7 @@
       "nome": "Umidificador de ar",
       "descricao": "Cor: Preto, Capacidade: 200ml, Potência nominal: 4,5W, Dimensões: 10x7x16cm",
       "loja": "Shopee",
-      "preco": "R$38,99",
+      "preco": 38.99,
       "categoria": "Variados"
     },
     {
@@ -117,7 +117,7 @@
       "nome": "Palhetas para guitarra",
       "descricao": "Material: ABS, Quantidade: 50, Espessura: Misto, Tipo: Superfície Lisa",
       "loja": "Shopee",
-      "preco": "R$25,21",
+      "preco": 25.21,
       "categoria": "Música"
     }
   ]

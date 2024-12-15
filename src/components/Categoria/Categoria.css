@@ -1,0 +1,26 @@
+.categoria {
+  margin: 20px;
+  padding: 16px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.categoria h2 {
+  font-size: 1.8em;
+  color: #333333;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.categoria .produto {
+  margin-bottom: 16px;
+}
+
+/* Estilo de layout para organizar os produtos */
+.categoria {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: center;
+}

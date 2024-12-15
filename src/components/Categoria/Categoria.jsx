@@ -1,4 +1,3 @@
-import { ReactNode } from "react";
 import "./Categoria.css";
 import Produto from "../Produto/Produto.jsx";
 import PROD from "../../produtos.json";

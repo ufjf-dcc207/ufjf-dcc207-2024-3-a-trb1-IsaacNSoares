@@ -1,13 +1,12 @@
 import "./App.css";
 import Categoria from "../src/components/Categoria/Categoria.jsx";
+import Cabecalho from "../src/components/Cabecalho/Cabecalho.jsx";
 
 function App() {
   return (
     <>
       <div className="container">
-        <div className="cabecalho">
-          <h1>Lista de Compras</h1>
-        </div>
+        <Cabecalho/>
         <Categoria/>
         <Categoria/>
         <Categoria/>

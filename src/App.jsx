@@ -1,4 +1,5 @@
 import "./App.css";
+import Produto from "../src/components/Produto/Produto.jsx";
 
 function App() {
   return (
@@ -9,75 +10,21 @@ function App() {
         </div>
         <div className="categoria">
           <h2>Categoria 1</h2>
-          <div className="produto">
-            <img src="" alt="imagem" />
-            <h3 className="nome">Nome</h3>
-            <p className="descricao">Descrição</p>
-            <p className="loja">Loja</p>
-            <p className="preco">Preço</p>
-          </div>
-          <div className="produto">
-            <img src="" alt="imagem" />
-            <h3 className="nome">Nome</h3>
-            <p className="descricao">Descrição</p>
-            <p className="loja">Loja</p>
-            <p className="preco">Preço</p>
-          </div>
-          <div className="produto">
-            <img src="" alt="imagem" />
-            <h3 className="nome">Nome</h3>
-            <p className="descricao">Descrição</p>
-            <p className="loja">Loja</p>
-            <p className="preco">Preço</p>
-          </div>
+          <Produto/>
+          <Produto/>
+          <Produto/>
         </div>
         <div className="categoria">
           <h2 className="nomeCategoria">Categoria 2</h2>
-          <div className="produto">
-            <img src="" alt="imagem" />
-            <h3 className="nome">Nome</h3>
-            <p className="descricao">Descrição</p>
-            <p className="loja">Loja</p>
-            <p className="preco">Preço</p>
-          </div>
-          <div className="produto">
-            <img src="" alt="imagem" />
-            <h3 className="nome">Nome</h3>
-            <p className="descricao">Descrição</p>
-            <p className="loja">Loja</p>
-            <p className="preco">Preço</p>
-          </div>
-          <div className="produto">
-            <img src="" alt="imagem" />
-            <h3 className="nome">Nome</h3>
-            <p className="descricao">Descrição</p>
-            <p className="loja">Loja</p>
-            <p className="preco">Preço</p>
-          </div>
+          <Produto/>
+          <Produto/>
+          <Produto/>
         </div>
         <div className="categoria">
           <h2 className="nomeCategoria">Categoria 3</h2>
-          <div className="produto">
-            <img src="" alt="imagem" />
-            <h3 className="nome">Nome</h3>
-            <p className="descricao">Descrição</p>
-            <p className="loja">Loja</p>
-            <p className="preco">Preço</p>
-          </div>
-          <div className="produto">
-            <img src="" alt="imagem" />
-            <h3 className="nome">Nome</h3>
-            <p className="descricao">Descrição</p>
-            <p className="loja">Loja</p>
-            <p className="preco">Preço</p>
-          </div>
-          <div className="produto">
-            <img src="" alt="imagem" />
-            <h3 className="nome">Nome</h3>
-            <p className="descricao">Descrição</p>
-            <p className="loja">Loja</p>
-            <p className="preco">Preço</p>
-          </div>
+          <Produto/>
+          <Produto/>
+          <Produto/>
         </div>
       </div>
     </>

@@ -8,10 +8,12 @@ function Categoria({categ}) {
 
   return (
     <div className="categoria">
-      <h2>{categ}</h2>
-      {c.map(info=>(
-        <Produto key={info.nome} informacoes={info}/>
-      ))}
+      <div className="titulo"><h2>{categ}</h2></div>
+      <div className="cat">
+        {c.map(info=>(
+          <Produto key={info.nome} informacoes={info}/>
+        ))}
+      </div>
     </div>
   );
 }
